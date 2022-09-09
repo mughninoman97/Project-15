@@ -1,24 +1,26 @@
-# Project No. 15
+# Project No. 15 (Visual Designer)
 
-This is my 15th project of Web Development. The project is designed in such a way that it works on large(Desktop & Laptop) as well as small screens(Mobile Devices). In this project I have learnt a lot of things such as flexbox, flex-direction, grid, color properties etc.
+This is my _**15th project**_ of Web Development. The project is designed in such a way that it works on large(Desktop & Laptop) as well as small screens(Mobile Devices). In this project I have learnt a lot of things such as **flexbox, flex-direction, grid, color properties** etc.
+
+> [Check the Deployed live link here](https://project-15-visual-designer-noman.vercel.app/)
 
 FULL WEBPAGE:
-![Project2](/sc/full.png "proj2 image")
+![Project15](/sc/full.png "proj15 image")
 
 NAVBAR:
-![Project2](/sc/nav.PNG "proj2 image")
+![Project15](/sc/nav.PNG "proj15 image")
 
 BODY:
-![Project2](/sc/body1.PNG )
-![Project2](/sc/body2.PNG )
+![Project15](/sc/body1.PNG )
+![Project15](/sc/body2.PNG )
 
 FOOTER:
-![Project2](/sc/foot.PNG )
+![Project15](/sc/foot.PNG )
 
 ## Technologies Used
 
-![Mascot](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "mascot logo")
-![Mascot](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg "mascot logo")
+![html](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "html logo")
+![html](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg "html logo")
 
 
 ## What I leaned
